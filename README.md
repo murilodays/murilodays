@@ -1,6 +1,6 @@
-## Bem-vindo(a) ao meu perfil! 😁
+# Bem-vindo(a) ao meu perfil! 😁
 
-Sobre mim:
+## Sobre mim:
 
 👋 Olá, mundo! Me chamo Murilo, sou estudante de programação e curso de Análise e Desenvolvimento de Sistemas. Com meus 21 anos e apaixonado por tecnologia, busco sempre expandir meus horizontes e aprimorar minhas habilidades.
 
@@ -10,7 +10,7 @@ Sobre mim:
 
 🌎 Atualmente moro no Brasil, mas estou pronto para colaborar em projetos de qualquer lugar do mundo!
  
-### Redes sociais e formas de contato:
+## Redes sociais e formas de contato:
  
 <div> 
   <a href="https://instagram.com/murilodays" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
