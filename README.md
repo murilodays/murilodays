@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 😁
+## Welcome to my profile! 😁
 
  <div>
    <a href="https://github.com/murilodays">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Para mais informações, logo abaixo estão minhas redes sociais e formas de contato!
+### For further details, you can find my social media links and contact information below!
  
 <div> 
   <a href="https://instagram.com/murilodays" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
