@@ -1,14 +1,12 @@
-# Bem-vindo(a) ao meu perfil! 😁
+# Bem-vindo(a) ao meu perfil!
 
 ## Sobre mim:
 
-👋 Olá, mundo! Me chamo Murilo, sou estudante de programação e estou cursando Análise e Desenvolvimento de Sistemas. Com 22 anos e apaixonado por tecnologia, estou sempre buscando expandir meus horizontes e aprimorar minhas habilidades.
+Sou Murilo, tenho 22 anos, e atualmente sou estudante de programação cursando Análise e Desenvolvimento de Sistemas. 
 
-💻 Mergulhei de cabeça no mundo da programação, e estou buscando desvendar os segredos por trás dos códigos e as possibilidades infinitas que eles oferecem. Meu amor pela criação e resolução de problemas me levou a explorar diversas linguagens de programação, e, por isso, estou sempre disposto a aprender mais.
+Apaixonado por tecnologia e sempre em busca de novos aprendizados com foco em aprimorar minhas habilidades em programação, explorando diferentes linguagens e soluções para desafios reais.
 
-🌟 Além disso, estou aberto a oportunidades de aprendizado e mentorias, pois acredito que o crescimento profissional é uma jornada compartilhada. Estou animado para colaborar, aprender e evoluir com a comunidade de desenvolvedores.
-
-🌎 Atualmente moro no Brasil, mas estou pronto para contribuir em projetos de qualquer lugar do mundo!
+Atualmente moro no Brasil, mas estou pronto para contribuir em projetos de qualquer lugar do mundo!
  
 ## Redes sociais e formas de contato:
  
