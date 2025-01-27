@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=murilodays&count_private=true&show_icons=true&theme=slateorange" heigth="200" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilodays&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=murilodays&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=false&order=2" height="200" width="400" alt="languages graph"  />
 </div>
     
 <div style="display: inline_block"><br>
