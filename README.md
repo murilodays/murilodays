@@ -2,11 +2,11 @@
 
 ## Sobre mim:
 
-Sou Murilo, tenho 22 anos, e atualmente sou estudante de programação cursando Análise e Desenvolvimento de Sistemas. 
+👋 Sou Murilo, tenho 22 anos, e atualmente sou estudante de programação cursando Análise e Desenvolvimento de Sistemas. 
 
-Apaixonado por tecnologia e sempre em busca de novos aprendizados com foco em aprimorar minhas habilidades em programação, explorando diferentes linguagens e soluções para desafios reais.
+💻 Apaixonado por tecnologia e sempre em busca de novos aprendizados com foco em aprimorar minhas habilidades em programação, explorando diferentes linguagens e soluções para desafios reais.
 
-Atualmente moro no Brasil, mas estou pronto para contribuir em projetos de qualquer lugar do mundo!
+🌎 Atualmente moro no Brasil, mas estou pronto para contribuir em projetos de qualquer lugar do mundo!
  
 ## Redes sociais e formas de contato:
  
