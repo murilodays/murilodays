@@ -2,7 +2,7 @@
 
 <h3>Sobre mim:</h3>
 
-👋 Me chamo Murilo, tenho 22 anos, e atualmente sou estudante de programação cursando Análise e Desenvolvimento de Sistemas. 
+👋 Hello There! Me chamo Murilo, tenho 22 anos, e sou programador, atualmente cursando Análise e Desenvolvimento de Sistemas. 
 
 💻 Apaixonado por tecnologia e sempre em busca de novos aprendizados com foco em aprimorar minhas habilidades em programação, explorando diferentes linguagens e soluções para desafios reais.
 
