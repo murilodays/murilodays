@@ -4,7 +4,7 @@
 
 👋 Hello There! Sou o Murilo, um programador de 22 anos, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-💻 Apaixonado por tecnologia e sempre em busca de cada vez mais conhecimento. Focado em aprimorar minhas habilidades em programação, constantemente exploro diferentes linguagens, novas tecnologias e soluções para resolver problemas reais.
+💻 Apaixonado por tecnologia e sempre em busca de cada vez mais conhecimento, estou focado em aprimorar minhas habilidades em programação, explorando diferentes linguagens, tecnologias e criando soluções para resolver problemas reais.
 
 🌎 Atualmente moro no Brasil, mas estou pronto para contribuir em projetos de qualquer lugar do mundo!
 
