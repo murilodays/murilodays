@@ -2,9 +2,9 @@
 
 <h3>Sobre mim:</h3>
 
-👋 Hello There! Me chamo Murilo, tenho 22 anos, e sou programador, atualmente cursando Análise e Desenvolvimento de Sistemas. 
+👋 Hello There! Sou o Murilo, um programador de 22 anos, atualmente cursando Análise e Desenvolvimento de Sistemas.
 
-💻 Apaixonado por tecnologia e sempre em busca de novos aprendizados com foco em aprimorar minhas habilidades em programação, explorando diferentes linguagens e soluções para desafios reais.
+💻 Apaixonado por tecnologia e sempre em busca de cada vez mais conhecimento. Focado em aprimorar minhas habilidades em programação, constantemente exploro diferentes linguagens, novas tecnologias e soluções para resolver problemas reais.
 
 🌎 Atualmente moro no Brasil, mas estou pronto para contribuir em projetos de qualquer lugar do mundo!
 
