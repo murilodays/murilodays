@@ -2,7 +2,7 @@
 
 <h3>Sobre mim:</h3>
 
-💻 Apaixonado por tecnologia e em busca de cada vez mais conhecimento, sou um dev focado em aprimorar minhas habilidades na programação, explorando diferentes linguagens, tecnologias e criando soluções para resolver problemas reais.
+💻 Apaixonado por tecnologia e com sede de conhecimento, sou um dev focado em aprimorar minhas habilidades na programação, explorando diferentes linguagens, tecnologias e buscando criar soluções para resolver problemas reais.
 
 🌎 Atualmente moro no Brasil, mas estou pronto para contribuir em projetos de qualquer lugar do mundo!
 
