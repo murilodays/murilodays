@@ -1,10 +1,10 @@
-## Bem-vindo(a) ao meu perfil!
+## Welcome to my profile!
 
-<h3>Sobre mim:</h3>
+<h3>About me:</h3>
 
-💻 Apaixonado por tecnologia e com sede de conhecimento, sou um dev focado em aprimorar minhas habilidades na programação, explorando diferentes linguagens, tecnologias e buscando criar soluções para resolver problemas reais.
+💻 Passionate about technology and eager to learn, I am a developer focused on improving my programming skills, exploring different languages and technologies, and striving to create solutions to solve real-world problems.
 
-🌎 Atualmente moro no Brasil, mas estou pronto para contribuir em projetos de qualquer lugar do mundo!
+🌎 I currently live in Brazil, but I am ready to contribute to projects from anywhere in the world!
 
 <br>
 <div align="center"> 
